@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ValidTopArtists</string>
+    <string name="btn_top_artists">Top Artists</string>
+    <string name="btn_top_tracks">Top Tracks</string>
+    <string name="edit_default">Nombre:</string>
+    <string name="listeners">Listeners:</string>
+    <string name="url">Url:</string>
+    <string name="streamable">Streamable:</string>
+    <string name="dagger">Dagger</string>
+</resources>
